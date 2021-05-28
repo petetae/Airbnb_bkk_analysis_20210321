@@ -40,7 +40,7 @@ There is everything in one notebook for analysis and the attached csv files for 
 
 ## Results<a name="results"></a>
 
-Main findings and analysis can also be found at https://pete-taecha.medium.com/is-airbnb-secretly-dominating-bangkok-419b676a23e9 link and in the pdf.
+Main findings and analysis can also be found at https://pete-taecha.medium.com/is-airbnb-secretly-dominating-bangkok-419b676a23e9 link.
 Overall, there is a strong growth trend in AirBnB domination in Bangkok and let's see whether they are going to further penetrate the market or not.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
