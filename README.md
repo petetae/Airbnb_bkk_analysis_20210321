@@ -16,7 +16,8 @@ AirBnB has a lot of open data available to analyse and this project references t
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*. This is a test.
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.
+The Jupyter Notebook file can be downloaded and run without issues.
 
 ## Project Motivation<a name="motivation"></a>
 
