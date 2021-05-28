@@ -23,10 +23,15 @@ The Jupyter Notebook file can be downloaded and run without issues.
 
 Interestingly, there is a lot of free open data relating to AirBnB. So this small side project looks to try and answer the following business questions:
 
+
 Business question 1: What are the top 10 most common amenities for AirBnB listings in Bangkok?
+
 Business question 2: What are the top 10 ares in Bangkok with the most listing value? How many listings are there?
+
 Business question 3: What are the growth trend in number of AirBnB hosts overtime in Bangkok?
+
 Business question 4: What is the latest total value of AirBnB listings in Bangkok? 
+
 Business question 5: Given an estimated number of listing at the end of the year 2021, what would be our total listing value predictions?
 
 ## File Descriptions <a name="files"></a>
